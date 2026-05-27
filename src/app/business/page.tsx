@@ -52,7 +52,7 @@ export default async function BusinessPage() {
           </p>
         </div>
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-4">
-          <p className="text-xs text-slate-500">IH Vaasa projected 2027</p>
+          <p className="text-xs text-slate-500">Project Vaasa Hub projected 2027</p>
           <p className="text-2xl font-bold text-amber-700">5,100</p>
         </div>
       </div>
@@ -86,7 +86,7 @@ export default async function BusinessPage() {
 
       <div className="bg-white border border-slate-200 rounded-xl p-6">
         <h2 className="font-semibold text-slate-800 mb-4">
-          Major Employers in Vaasa — International Workforce
+          Major Employers in Vaasa International Workforce
         </h2>
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
@@ -139,10 +139,10 @@ export default async function BusinessPage() {
 
       <div className="bg-white border border-slate-200 rounded-xl p-6">
         <h2 className="font-semibold text-slate-800 mb-1">
-          Client Volume: IHH Helsinki (actual) vs IH Vaasa (projected)
+          Client Volume: IHH Helsinki (actual) vs Project Vaasa Hub (projected)
         </h2>
         <p className="text-xs text-slate-500 mb-4">
-          IHH historical data from annual reports; IH Vaasa projections based on
+          IHH historical data from annual reports; Project Vaasa Hub projections based on
           population ratio
         </p>
         <div className="space-y-2">
@@ -185,7 +185,7 @@ export default async function BusinessPage() {
           </div>
           <div className="flex items-center gap-1">
             <div className="w-3 h-3 bg-amber-400 rounded" />
-            IH Vaasa (projected)
+            Project Vaasa Hub (projected)
           </div>
         </div>
       </div>

@@ -143,7 +143,7 @@ export default async function EmploymentPage() {
         </div>
         <p className="text-xs text-slate-400 mt-3">
           * Only 24.7% of annual arrivals remain employed in Vaasa after 3
-          years — a key argument for IH Vaasa services.
+          years — a key argument for Project Vaasa Hub services.
         </p>
       </div>
     </div>

@@ -185,7 +185,7 @@ async function seed() {
   await db.executeMultiple(`
     DELETE FROM services;
     INSERT INTO services (name, priority, rationale, icon) VALUES
-      ('Registration & Formalities', 'Highest', 'DVV, Tax, Kela — immediate need on arrival', '🏛️'),
+      ('Registration & Formalities', 'Highest', 'DVV, Tax, Kela immediate need on arrival', '🏛️'),
       ('Employment Coaching', 'High', 'Addresses immigrant employment gap', '💼'),
       ('Pre-arrival Support (Employers)', 'High', 'Energy cluster B2B angle, easiest to fund', '🏭'),
       ('General Information & Guidance', 'Medium', 'Day-to-day settling-in support', 'ℹ️'),
